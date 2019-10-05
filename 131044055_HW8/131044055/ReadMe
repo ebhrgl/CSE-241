@@ -1,0 +1,11 @@
+hw8 rapor
+
+Bu projeyi netbeans ile javafx kullanarak yaptım.
+Bu sebeple javafx teki kısıtlama olmadıgını düşünerek shape, circle gibi classlari kullandım.
+Class lar icin bazı hazır kodlardan yararlandım.(Baska sekılde yapılamaıyordu)
+kazanma durumu ve checkler yapilmistir.
+Oyun capraz yatay ve dikey olarak her durum icin de calısmaktadır.
+Aynı zamanda exception durumları da kontrol edilmistir.
+Tek bir dosya icinde inner olarak cell classını da yazdım
+Kullanıcı secme box olusturdum ancak cözemediğim bir hata sebbebiyle computer icin calısmıyor.(Sadece iki kullanıcı ile oynanabiliyor.)
+restart butonunu vaktim kalmadıgı icin yapamadım.
